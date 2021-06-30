@@ -1,0 +1,47 @@
+.first-container {
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+}
+
+.first-title-container {
+  height: "30%";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first-input {
+  padding-left: 2%;
+  font-size: 15px;
+  height: 40px;
+  width: 280px;
+  margin-right: 2%;
+}
+
+.first-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 20%;
+  margin-top: 1%;
+}
+
+.first-submit {
+  height: 30px;
+  border: 0;
+  outlne: 0;
+  background-color: #bf3325;
+  color: white;
+  font-size: 12px;
+  margin-top: 1%;
+  cursor: pointer;
+}
+
+.second-url-container {
+  display: flex;
+}
+
+.second-url-container #url {
+  margin-left: 1%;
+}
